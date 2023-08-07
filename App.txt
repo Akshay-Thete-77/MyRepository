@@ -1,4 +1,4 @@
-App{
+NotApp{
 	public static void main(String[] args){
 		System.out.println("Hello code 1");
 	}
